@@ -1,4 +1,4 @@
-## Team Stone Wiki 1 - Evolution of a Programming Language
+## Team Stone Wiki 1 - Evolution of C++ Programming Language
 1. Consider the 5 Ws and H: Who, What, Where, When, Why, How? - Christopher
 Who created this programming language?
 What is the programming language? Describe it?
