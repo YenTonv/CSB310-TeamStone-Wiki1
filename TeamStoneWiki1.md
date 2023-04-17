@@ -17,6 +17,13 @@ The C++ programming language was the brainchild of Danish computer scientist, Bj
 
 2. What are the programming language's primary advantages and disadvantages? Pick one other programming language that is different and compare it. - Yen Ton
 
+C++ offers several advantages, including high performance, flexible memory management, vast library support, and portability. As an object-oriented compiled language, C++ generates fast and efficient code, rendering it ideal for performance-intensive applications. C++ also provides a diverse range of memory management options, allowing developers to choose between manual management using pointers or automatic management using smart pointers and garbage collection libraries. Moreover, the language has a broad standard library that encompasses a variety of data structures and algorithms, simplifying the creation of intricate programs. Finally, C++ can be compiled and executed on multiple platforms including various embedded systems [5].
+
+C++ has several drawbacks, such as its complexity, lower level of safety, longer compilation time, and challenging syntax. Due to its intricate nature with a steep learning curve, it can take a considerable amount of time to gain proficiency in C++. Furthermore, C++ allows pointer arithmetic and direct memory access, which can result in bugs and security vulnerabilities. Additionally, compiling C++ code takes longer than other programming languages, which may hinder the development process. Lastly, the syntax of C++ can be verbose and challenging to comprehend, especially for beginners.
+
+Comparing to Java, a common programing language, C++ is also an object -oriented programming that have some similarities in the syntax that they both use. Other than that, they are different in platforms, memory management, speed performance, and popular uses. While Java programs can run on any platform that has a Java Virtual Maching (JVM), C++ programs must be compiled separately for each platform they will run on. C++ offer low-level memory management features such as pointers, while Java has automatic garbage collection to manage memory. Speaking of speed, C++ programs can generally run faster than Java programs because C++ programs can directly access hardware resources, while Java programs run on top of the JVM which adds a layer of abstraction. Lastly, C++ is commonly used for systems programming, embedded systems, and game development, while Java is commonly used for web applications, enterprise software, and Android app development [6].
+
+
 3. What was the primary use case for the programming language? Software? Mobile? Mainframes? Mission-critical applications? - Riko
 
 C++ was developed by Stroustrup at Bell Labs around 1979 to be an extension of the C language that also had support for objects. This allowed for real-life analogies to be included in programming. In an interview with Stroustrup, when asked about his initial motivation behind designing C++, he stated, “I wanted to build a multi-computer system with a communication system that could be either shared memory or a network. My focus was on the software.” To do this, he needed to “write low-level, close-to-hardware code, such as memory managers, process schedulers, and device drivers”[4] and “separate software components so that they could be running on separate computers communicating in well-defined ways.”[4] Since there was no language that could do both, he decided to create his own.[4]
@@ -30,17 +37,26 @@ C++ is still in great demand and is nowhere near being a legacy language. It is 
 
 If we look at the robust history and current state of C++ we can speculate on its relevance and future. C++ has been in constant development for the past 40+ years and shows no sign of slowing down. When you navigate the organization’s official website (https://isocpp.org) you can find it full of very recent updates and links to future events. You can also find links to their their project on github, which  has regular updates and active contributors. The site also has a current status page that provides a timeline of major feature updates and a road map of currently planned updates leading into next year. This level of planning and messaging not only signals that C++ is still widely used but continuing to thrive despite new more accessible languages driving emergent technologies, such as A.I. When you search the internet for terms like “most popular programming languages” you will find an overwhelming number of blogs, academic articles and newsletters listing C++ as 'in demand'.  This is supported by popularity trends and tracking of github projects [madnight.github.io](images/language_popularity.png). C++ is in the top 5 and also gaining popularity. This is probably due to the aforementioned features but primarily the language's platform independence, backwards compatibility and level of control. With embedded systems getting smaller and more complex developers would want to fully harness their software and eek out as much performance as they can.  It’s unlikely that C++ will will become obsolete any time soon. It seems more likely that C++ will continue to evolve in the way it has for the last few decades by implementing new features and eventually adopting a new name.
 
-6. Create a timeline graphic of history and evolutions of your programming language - Yen Ton
+6. Create a timeline graphic of history and evolutions of your programming language
+
+[7]
 
 7. Assemble all the sections so the final wiki is comprehensive - Michael
 
 
 ### References
 
-[1] B. Stroustrup. “The C++ Programming Language.” stroustrup.com. https://www.stroustrup.com/C++.html (accessed 4/15/2023). 
+[1] B. Stroustrup. “The C++ Programming Language.” stroustrup.com. https://www.stroustrup.com/C++.html. [Accessed 4-15-2023]. 
 
-[2] B. Stroustrup. “A History of C++: 1979-1991.” stroustrup.com. https://www.stroustrup.com/hopl2.pdf (accessed 4/15/2023). 
+[2] B. Stroustrup. “A History of C++: 1979-1991.” stroustrup.com. https://www.stroustrup.com/hopl2.pdf. [Accessed 4-15-2023]. 
 
-[3] B. Stroustrup. “Bjarne Stroustrup’s FAQ.” stroustrup.com. https://www.stroustrup.com/bs_faq.html#what-is (accessed 4/15/2023). 
+[3] B. Stroustrup. “Bjarne Stroustrup’s FAQ.” stroustrup.com. https://www.stroustrup.com/bs_faq.html#what-is. [Accessed 4/15/2023]. 
 
 [4] TechRepublic interview - Bjarne Stroustrup. (n.d.). Retrieved April 16, 2023, from https://stroustrup.com/TechRepublic-interview-Bjarne-Stroustrup.pdf 
+
+[5] N. Duggal, “What are the uses of C++ & Its Applications: Simplilearn,” Simplilearn.com, 03-Mar-2023. [Online]. Available: https://www.simplilearn.com/tutorials/cpp-tutorial/top-uses-of-c-plus-plus-programming. [Accessed: 16-Apr-2023]. 
+
+[6] R. Meltzer, “C++ VS Java: A guide for beginners,” Course Report, 16-Nov-2022. [Online]. Available: https://www.coursereport.com/blog/c-vs-java-a-guide-for-beginners. [Accessed: 16-Apr-2023]. 
+
+[7] “History of C++,” GeeksforGeeks, 13-Jun-2022. [Online]. Available: https://www.geeksforgeeks.org/history-of-c/. [Accessed: 16-Apr-2023]. 
+
