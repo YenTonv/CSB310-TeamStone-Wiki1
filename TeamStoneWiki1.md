@@ -39,7 +39,10 @@ If we look at the robust history and current state of C++ we can speculate on it
 
 6. Create a timeline graphic of history and evolutions of your programming language
 
-[7]
+
+![Timeline1](https://user-images.githubusercontent.com/92559627/232381912-d0512174-89d9-4137-b403-0539046e626e.png)
+
+![Timeline2](https://user-images.githubusercontent.com/92559627/232381939-42b0f747-ddf4-4852-a8ba-8849e7235466.png) [7]
 
 7. Assemble all the sections so the final wiki is comprehensive - Michael
 
