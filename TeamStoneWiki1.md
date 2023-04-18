@@ -34,7 +34,7 @@ As you can see in the image above C++ is in the top 5 and also gaining popularit
 
 [2] B. Stroustrup. “A History of C++: 1979-1991.” stroustrup.com. https://www.stroustrup.com/hopl2.pdf. [Accessed 4-15-2023]. 
 
-[3] B. Stroustrup. “Bjarne Stroustrup’s FAQ.” stroustrup.com. https://www.stroustrup.com/bs_faq.html#what-is. [Accessed 4/15/2023]. 
+[3] B. Stroustrup. “Bjarne Stroustrup’s FAQ.” stroustrup.com. https://www.stroustrup.com/bs_faq.html#what-is. [Accessed 4-15-2023]. 
 
 [4] TechRepublic interview - Bjarne Stroustrup. (n.d.). Retrieved April 16, 2023, from https://stroustrup.com/TechRepublic-interview-Bjarne-Stroustrup.pdf 
 
