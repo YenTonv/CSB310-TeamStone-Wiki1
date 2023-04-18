@@ -1,18 +1,8 @@
 ## Team Stone Wiki 1 - Evolution of C++ Programming Language
 
-1. Consider the 5 Ws and H: Who, What, Where, When, Why, How? - Christopher
-Who created this programming language?
-What is the programming language? Describe it?
-Where is not super relevant, but you can add where it was created (Bell Labs?)
-When was the programming language created?
-Why was the programming language created? Was there a specific need?
-How was this programming language created? What was the process of its evolution? What came before it? What came after it?
-
-
 The C++ programming language was the brainchild of Danish computer scientist, Bjarne Stroustrup. In his own words, Stroustrup describes C++ as “a general-purpose programming language with a bias towards systems programming that is a better C, supports data abstraction, supports object-oriented programming, and supports generic programming” [1]. To elaborate on this description, Stroustrup says that “C++ is a language for defining and using light-weight abstractions [that] has significant strengths in areas where hardware must be handled efficiently and there is significant complexity to cope with” [1]. In other words, C++ is an evolution of the C language that incorporates the “low level” programming of hardware and the more human friendly “high level” programming paradigm that utilizes data abstraction and OOP. Stroustrup conceptualized this “best of both worlds” approach to programming as a graduate student at the University of Cambridge, in the mid to late 1970’s [2]. Stroustrup says he invented C++ because he wanted to “design a language in which [he] could write programs that were both efficient and elegant [because up until then] most languages force you to choose between these two alternatives” [3]. The C++ language was created by incorporating the “elegant” object-oriented “styles encouraged by [the programming language] Simula67” into the “efficient” system programming of C [3]. 
 
-![Bjarne Stroustrup](images/BjarneStroustrup.jpg)
-*Bjarne Stroustrup at Bell Labs*
+![Bjarne Stroustrup](images/BjarneStroustrup.jpg) *Bjarne Stroustrup at Bell Labs*
 
 The C++ programming language as we know it today evolved from Stroustrup’s earlier work on a language called “C with Classes” which he developed from 1979 to 1983 at the Computing Science Research Center of Bell Laboratories in Murray Hill, New Jersey [2]. In 1983, “C with Classes” was renamed to “C++” (as a play on words using the ++ increment operator from C) and was released internally for the first time. Two years later in 1985, C++ became commercially available outside of Bell Laboratories [3]. By the end of the 1980’s, C++ was gaining in popularity and so Stroustrup saw the need to begin the formal standardization process for C++ (which was finalized in 1998 and has been updated roughly every three years since) [2]. The rapid adoption of the C++ programming language popularized the object-oriented paradigm (that began with Simula67) and paved the way for contemporary OOP languages such as Java. 
 
